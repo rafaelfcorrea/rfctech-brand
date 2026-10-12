@@ -1,0 +1,11 @@
+{
+  "name": "rfctech-brand",
+  "version": "1.0.0",
+  "description": "RFC Tech colors, grid and logo mark shared by the site and the apps",
+  "license": "UNLICENSED",
+  "files": ["brand.css", "monogram.svg"],
+  "exports": {
+    "./brand.css": "./brand.css",
+    "./monogram.svg": "./monogram.svg"
+  }
+}
